@@ -28,7 +28,7 @@ season,week,gameDate,gameId,gameTimeEastern,HomeScore,VisitorScore,homeTeamAbbr,
 2017,3,09/24/2017,2017092407,13:00:00,36,33,NE,HOU,New England Patriots,Houston Texans,Gillette Stadium,"Foxborough, MA",Outdoor,Field Turf,03:19:00,Sunny,84,53,4,NE
 2017,2,09/17/2017,2017091709,16:05:00,45,20,OAK,NYJ,Oakland Raiders,New York Jets,Oakland-Alameda County Coliseum,"Oakland, CA",Outdoor,Natural Grass,03:00:00,Sunny,70,57,6,South
 2017,3,09/24/2017,2017092400,09:30:00,44,7,JAX,BAL,Jacksonville Jaguars,Baltimore Ravens,Wembley Stadium,"London, England",Outdoors,Grass,02:49:00,NA,70,51,10,SE
-2017,2,09/17/2017,2017091712,16:25:00,12,9,SEA,SF,Seattle Seahawks,San Francisco 49ers,CenturyLink Field,"Seattle, WA",Outdoor,FieldTurf,03:00:00,Mostly Cloudy,65,60,12,S
+2017,2,09/17/2017, 2017091712,16:25:00,12,9,SEA,SF,Seattle Seahawks,San Francisco 49ers,CenturyLink Field,"Seattle, WA",Outdoor,FieldTurf,03:00:00,Mostly Cloudy,65,60,12,S
 2017,2,09/14/2017,2017091400,20:25:00,9,13,CIN,HOU,Cincinnati Bengals,Houston Texans,Paul Brown Stadium,"Cincinnati, Ohio",Outdoor,UBU Sports Speed S5-M,03:04:00,Mostly Coudy,69,78,2,ENE
 2017,2,09/17/2017,2017091706,13:00:00,26,9,PIT,MIN,Pittsburgh Steelers,Minnesota Vikings,Heinz Field,Pittsburgh,Outdoors,Grass,03:11:00,Sunny,78,64,1,From S
 2017,2,09/17/2017,2017091710,16:25:00,42,17,DEN,DAL,Denver Broncos,Dallas Cowboys,Sports Authority Field at Mile High,"Denver, CO",Outdoor,Grass,04:15:00,Partly Cloudy,72,41,5,SouthWest
